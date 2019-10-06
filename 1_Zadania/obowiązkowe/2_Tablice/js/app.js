@@ -12,3 +12,12 @@ function distFromAverage(arr) {
 }
 let arr = [1,2,3,4,5,6,7];
 distFromAverage(arr);
+
+// Zadanie 1
+
+var favouriteFruits = ['apple', 'pear','grape','banana'];
+console.log(favouriteFruits[favouriteFruits.length-1]);
+
+for(var i=0; i<favouriteFruits.length; i++){
+  console.log(favouriteFruits[i])
+}
